@@ -1,0 +1,12 @@
+Fast api can create automatic doc and ui
+
+Swagger UI 
+ReDoc
+
+this is fully based on open standards
+- JSON Schema
+- Open API
+
+
+fast api have auto complete in vs code extension
+
