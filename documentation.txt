@@ -10,3 +10,16 @@ this is fully based on open standards
 
 fast api have auto complete in vs code extension
 
+fast api reading file line by line code
+
+for open swagger ui just type
+localhost:8000/docs
+
+for alternative api documentation with ReDoc
+localhost:8000/redoc
+
+
+Deta
+username:gopipatwa
+password:Gopise@123
+https://w04u9p.deta.dev/docs
